@@ -12,7 +12,7 @@ namespace ConsoleTestGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("You work with git!");
             Operation operation = new Operation();
-            Console.WriteLine($"Sum(21, 32) =  {operation.Sum(21, 32)}");
+            Console.WriteLine($"Сумма (21, 32) =  {operation.Sum(21, 32)}");
 
 
         }
